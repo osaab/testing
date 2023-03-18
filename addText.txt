@@ -1,1 +1,1 @@
-echo '' [Add text instantly
+Add text instantly
